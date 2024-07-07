@@ -5,7 +5,7 @@ In the competitive environment of the airline industry, understanding customer s
 
 ---
 
-![Dashboard Overview](https://drive.google.com/uc?export=view&id=1RXimbzVLnRBulUwDpdCWDeALFsR2Wj1d)
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1NOipK4s5hEw2H7wExfYTAXYW3x6784tz)
 
 ---
 
@@ -24,6 +24,9 @@ The dashboard has the following main features.
 
 ---
 
+![Dashboard Overview](https://drive.google.com/uc?export=view&id=1RXimbzVLnRBulUwDpdCWDeALFsR2Wj1d)
+
+---
 ## Analytical Insights
 
 ### Overall Customer Ratings
